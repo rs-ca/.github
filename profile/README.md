@@ -2,22 +2,23 @@
 
 ![RS-CA Logo](https://avatars.githubusercontent.com/u/225779093?s=150&u=feece3c98dab5c6b62ac61919e76445c73e7b789&v=4)
 
-**RS-CA** is a community project that preserves and maintains important Rust crates that have been **abandoned** or **archived**.
+**RS-CA** is a community project dedicated to preserving and maintaining important Rust crates that have been **abandoned** or **archived**.
 
 ---
 
 ## Purpose
 
 - Keep vital crates available for the Rust ecosystem.
+- Ensure repositories always have active maintainers with write access.
 - Fix security issues and update dependencies.
-- Make sure old but important code still works with new Rust versions.
+- Keep older but important code working with newer Rust versions.
 
 ---
 
 ## What We Do
 
-1. **Contact the original author** (when possible) to transfer the repository.  
-2. If transfer is not possible, **hard fork** the repository.  
+1. **Contact the original author** to request a repository transfer (when possible).  
+2. If transfer isn’t possible, **hard fork** the repository.  
 3. Maintain the crate under community stewardship.  
 4. Archive the original version for historical reference.
 
@@ -25,9 +26,10 @@
 
 ## Get Involved
 
-If you know a crate that’s important but abandoned, open an issue or pull request.  
-
-If you have open source contributions in Rust and a little time, why not join the org?
+- Know a crate that’s important but abandoned or archived?  
+  Open an issue here: [Managed Crates](https://github.com/rs-ca/managed-crates/issues)  
+- Have Rust open-source experience and a little spare time?  
+  Join the org and help keep the ecosystem healthy.
 
 ---
 
@@ -38,4 +40,4 @@ If you have open source contributions in Rust and a little time, why not join th
 
 ---
 
-_Not affiliated with crates.io or the official Rust project._
+_Not affiliated with [crates.io](https://crates.io) or the official Rust project._
